@@ -1,0 +1,26 @@
+W:Small Sword,Medium Sword,Large Sword,Small Axe,Medium Axe,Large Axe,Crossbow,Short Bow,Long Bow
+I:Red Potion,Blue Potion,Green Potion,Purple Potion,Exit Key,Chest Key,Master Chest Key
+F:Bread,Steak
+M:Weak Wand,Wand,Strong Wand,Master Wand,Ring of Healing,Ring of Damage,Ring of Resistance
+A:Leather Boots,Leather Leggings,Leather Chestplate,Leather Helmet,Steel Boots,Steel Leggings,Steel Chestplate,Steel Helmet,Impenetrable Boots,Impenetrable Leggings,Impenetrable Chestplate,Impenetrable Helmet
+C:Thief,Warrior,Elder Wizard,Mystic
+R:Nord,Khajit,Dwarf,Celestial
+S:Torch,Broken Arrows (x10),Draugr Meat,Pebbles,Rotten Flesh,Rusted Spoon,Iron Rod
+--------------------------------------------------------------------
+
+
+This text file houses all options for the user to choose from-- some will be found in-game, others during character creation.
+
+LEGEND:
+[To make it easier for the program to read the file, all sections have been shortened to one letter.]
+
+W = Weapons
+I = Items
+F = Food
+M = Magic Items
+A = Armors
+C = Classes
+R = Races
+S = Miscellaneous Items
+
+(Misc and Regular are separated because of Adventure Mode. The misc items do not appear in Adventure Mode)
