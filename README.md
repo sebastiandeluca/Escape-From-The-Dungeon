@@ -56,15 +56,15 @@ A IDE-Based dungeon-crawler created as a Problem Set solution for Computer Scien
     The player has ability stats, that can not only change based on Class, but also based on consumed items! These also serve a function     in-game, like allowing the user to "lockpick" a chest if a stat is high enough, etc.
   
 ## Known Errors --
-   In Adventure Mode-- when more than one criteria is met for room generation,
+   
+   ### Adventure Mode 
+   When more than one criteria is met for room generation,
    the options will not update to show everything that is possible. This is
    due to how the option-updating is set up.
 
    If you know the keybinds, everything still operates.
 
-                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-   ### Adventure Mode 
+   
    If you and the AI die at the same time in an enemy
    encounter, it will allow you to go back into 'ROOM CHOOSE MODE', but once
    you make a choice, it will return you to the main menu and remove your
