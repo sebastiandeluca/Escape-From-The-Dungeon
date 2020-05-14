@@ -1,0 +1,25 @@
+N:Stevie Wonder
+R:Celestial
+C:Warrior
+P:1.0
+S:4.0
+I:5.0
+L:5.0
+~:Large Sword
+*:Ring of Resistance,Steel Chestplate,Draugr Meat,Rotten Flesh,Small Axe,Iron Rod,Wand,Rotten Flesh,Chest Key
+
+This character was created using Option 1 - Character Creator.
+
+It will randomly generate a weapon and 9 other items to be in the 'Pack' of this character.
+
+LEGEND:
+ [To make the files easier to read / write for the program, every section has been Shortened to 1 letter.]
+N = Name
+R = Race
+C = Class
+P = Power
+S = Speed
+I = Intellect
+L = Lockpicking
+~ = Equipped Weapon
+* = Remaining Inventory
